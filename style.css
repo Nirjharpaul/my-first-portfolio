@@ -75,6 +75,26 @@ h2 {
   border: 1px solid red;
 }
 
+.blog-box {
+  border: 1px solid blue;
+  width: 220px;
+  height: 280px;
+  margin: 45px 30px;
+  padding: 25px;
+  box-shadow: 5px 5px 20px gray;
+  float: left;
+  border-radius: 10px;
+}
+
+.blog-box img {
+  width: 100%;
+}
+
+.read-more {
+  margin: 70px;
+  text-decoration: none;
+}
+
 .banner-image {
   width: 50%;
   height: 25%;
@@ -95,26 +115,6 @@ h2 {
 .chat-button {
   float: right;
   margin: 55px 40px;
-}
-
-.blog-box {
-  border: 1px solid blue;
-  width: 220px;
-  height: 280px;
-  margin: 45px 30px;
-  padding: 25px;
-  box-shadow: 5px 5px 20px gray;
-  float: left;
-  border-radius: 10px;
-}
-
-.blog-box img {
-  width: 100%;
-}
-
-.read-more {
-  margin: 70px;
-  text-decoration: none;
 }
 
 .footer {
