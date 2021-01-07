@@ -31,7 +31,7 @@ ul li a {
 
 section {
   border: 1px solid green;
-  height: 500px;
+  height: 600px;
 }
 
 h1 {
@@ -44,7 +44,7 @@ h1 {
 
 .link-button {
   background-image: linear-gradient(tomato, rgb(251, 141, 121));
-  padding: 15px 45px;
+  padding: 10px 40px;
   color: white;
   text-decoration: none;
   border-radius: 5px;
@@ -61,7 +61,7 @@ h2 {
 
 .project-box {
   width: 20%;
-  margin: 50px 0 0 150px;
+  margin: 50px 0 0 120px;
   padding: 1%;
   box-shadow: 5px 5px 20px gray;
   border-radius: 20px;
@@ -71,30 +71,31 @@ h2 {
 
 .banner-image {
   width: 50%;
-  height: 40%;
-  margin: 200px 100px 100px 450px;
+  height: 25%;
+  margin: 100px 50px 50px 350px;
   background-image: url(image/banner.png);
-  background-size: 950px 250px;
   background-repeat: no-repeat;
+  background-size: 675px 150px;
+  border: 2px solid blue;
 }
 .banner-text {
   color: white;
-  font-size: 35px;
-  margin: 100px 35px;
+  font-size: 25px;
+  margin: 60px 15px;
   width: 30%;
   float: left;
 }
 
 .chat-button {
   float: right;
-  margin: 100px 80px;
+  margin: 55px 40px;
 }
 
 .blog-box {
   border: 1px solid blue;
-  width: 280px;
-  height: 350px;
-  margin: 50px 70px;
+  width: 220px;
+  height: 280px;
+  margin: 45px 30px;
   padding: 25px;
   box-shadow: 5px 5px 20px gray;
   float: left;
@@ -120,6 +121,6 @@ h2 {
 }
 .icon-box {
   margin: 0 auto;
-  width: 8%;
+  width: 11%;
   border: 1px solid red;
 }
