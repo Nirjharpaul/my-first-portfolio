@@ -1,0 +1,125 @@
+body {
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+}
+
+nav {
+  float: right;
+  margin-right: 80px;
+}
+li {
+  float: left;
+  padding: 20px;
+}
+ul li {
+  list-style: none;
+}
+ul li a {
+  text-decoration: none;
+  color: black;
+}
+
+.half-width {
+  width: 40%;
+  margin: 3%;
+  padding: 1%;
+  float: left;
+}
+.half-width img {
+  width: 75%;
+}
+
+section {
+  border: 1px solid green;
+  height: 500px;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+.tomato-highlight {
+  color: tomato;
+}
+
+.link-button {
+  background-image: linear-gradient(tomato, rgb(251, 141, 121));
+  padding: 15px 45px;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+h2 {
+  text-align: center;
+  font-size: 35px;
+}
+
+.project-box img {
+  width: 100%;
+}
+
+.project-box {
+  width: 20%;
+  margin: 50px 0 0 150px;
+  padding: 1%;
+  box-shadow: 5px 5px 20px gray;
+  border-radius: 20px;
+  float: left;
+  border: 1px solid red;
+}
+
+.banner-image {
+  width: 50%;
+  height: 40%;
+  margin: 200px 100px 100px 450px;
+  background-image: url(image/banner.png);
+  background-size: 950px 250px;
+  background-repeat: no-repeat;
+}
+.banner-text {
+  color: white;
+  font-size: 35px;
+  margin: 100px 35px;
+  width: 30%;
+  float: left;
+}
+
+.chat-button {
+  float: right;
+  margin: 100px 80px;
+}
+
+.blog-box {
+  border: 1px solid blue;
+  width: 280px;
+  height: 350px;
+  margin: 50px 70px;
+  padding: 25px;
+  box-shadow: 5px 5px 20px gray;
+  float: left;
+  border-radius: 10px;
+}
+
+.blog-box img {
+  width: 100%;
+}
+
+.read-more {
+  margin: 70px;
+  text-decoration: none;
+}
+
+.footer {
+  text-align: center;
+}
+
+.icon {
+  width: 35px;
+  padding: 5px;
+}
+.icon-box {
+  margin: 0 auto;
+  width: 8%;
+  border: 1px solid red;
+}
